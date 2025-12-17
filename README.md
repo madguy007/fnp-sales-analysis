@@ -19,7 +19,7 @@ To provide management with a consolidated view of sales performance across time,
 - City-wise order distribution
 
 ## Dashboard Preview
-![FNP Sales Dashboard](screenshots/dashboard.png)
+![FNP Sales Dashboard](screenshots/fnp_sales_dashboard.jpg)
 
 
 ## Tools Used
