@@ -18,19 +18,24 @@ To provide management with a consolidated view of sales performance across time,
 - Top-performing products
 - City-wise order distribution
 
+## Dashboard Preview
+![FNP Sales Dashboard](screenshots/dashboard.png)
+
+
 ## Tools Used
 - Microsoft Excel (Power Query, Pivot Tables, Charts)
 - Data Cleaning & Transformation
 - Dashboard Design & KPI Reporting
 
 ## Repository Structure
+```
 fnp-sales-analysis/
 ├── data/
 ├── dashboard/
 ├── docs/
 ├── screenshots/
 └── README.md
-
+```
 
 ## Documentation
 - 📄 Executive Summary: `docs/FNP_Sales_Analysis_Executive_Summary.pdf`
